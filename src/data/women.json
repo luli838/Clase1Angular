@@ -1,0 +1,66 @@
+{
+    "women": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Livia",
+          "last": "Brunet"
+        },
+        "location": {
+          "street": {
+            "number": 8665,
+            "name": "Rue Duquesne"
+          },
+          "city": "Dunkerque",
+          "state": "Guadeloupe",
+          "country": "France",
+          "postcode": 39739,
+          "coordinates": {
+            "latitude": "-14.5680",
+            "longitude": "22.6955"
+          },
+          "timezone": {
+            "offset": "+1:00",
+            "description": "Brussels, Copenhagen, Madrid, Paris"
+          }
+        },
+        "email": "livia.brunet@example.com",
+        "login": {
+          "uuid": "9157de55-5e1c-4851-a0e2-f87cfc7b4189",
+          "username": "blackzebra560",
+          "password": "thomas1",
+          "salt": "6eWFxhPa",
+          "md5": "26f347f6649f886863ef7b7ed905c6b9",
+          "sha1": "fbf62efb883debf6f010046f1cc9213466ef6b04",
+          "sha256": "1e0d53f3fdf9231fac9c674433147a253c569681bf007dd05401ac377ab0b0d7"
+        },
+        "dob": {
+          "date": "1971-08-16T02:54:25.097Z",
+          "age": 52
+        },
+        "registered": {
+          "date": "2018-05-17T08:23:05.651Z",
+          "age": 6
+        },
+        "phone": "05-47-30-55-50",
+        "cell": "06-79-06-25-38",
+        "id": {
+          "name": "INSEE",
+          "value": "2710763663798 43"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/93.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+        },
+        "nat": "FR"
+      }
+    ],
+    "info": {
+      "seed": "eb9f9a9e2eb77bd3",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
